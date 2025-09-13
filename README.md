@@ -34,4 +34,4 @@ Bu uygulama 13 yaş ve üzeri kullanıcılar için tasarlanmıştır. 13 yaşın
 
 5. Kullanıcı Hakları
 
-Toplanan verilerinize erişebilir veya silebilirsiniz. Veri talepleriniz için bizimle mstfagunduz1@gmail.com
+Toplanan verilerinize erişebilir veya silebilirsiniz. Veri talepleriniz için bizimle iletişime geçebilirsiniz mstfagunduz1@gmail.com
